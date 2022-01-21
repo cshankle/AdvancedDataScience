@@ -42,20 +42,21 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
   Having the sort tool makes life a lot easier for the person who needs to use spreadsheet. There are always going to be different ways to arrange data and depending on the context, you might need to look at the data arranged differently multiple times on one sheet. For example, we use spreadsheets to keep track of who gets packages and what day they arrive at the Package Center. When we had paper copies of the manifest, it was helpful to sort by alphabetical order, since we had to manually find each person's name. Now that the manifest is digital it is more useful to sort by date, since all of the packages are on one spreadsheet. By sorting by date, we know which packages got here most recently and we don't have to waste time. Another instance where the sort tool is useful is in big data projects such as the highschool counselor project that the Office of Admission is doing. We wanted to sort all of the high schools in Maryland by which county they are in. This is pretty easy, we can just use the sort tool on the county column. However, this project took a **very** long time, so it would be more useful to sort by counties that we are more likely to have students coming from. In this case Montgomery county and Howard County are both counties where we pull a lot of students from. By making a custom sort that prioritizes those two counties, we could focus on urgent counties first. Remembering the time we spent in 201 working on sorting algorithms shows why it is so helpful to have a tool to do the sorting rather than coding it ourselves. Because we have the sort tool, we are able to turn a process that involves a lot of code into a few clicks of a button. 
 ## How to Sort:
 1. Add Your Data.
--In this case, we will look at a small dataset of what different countries call shaved ice.
+  -In this case, we will look at a small dataset of what different countries call shaved ice.
 2. Click Sort.
-- Sort is found in the data tool bar.
+  - Sort is found in the data tool bar.
 3. Choose whether your data has headers.
-- This option will be found in the top right corner of the window.
-- This is important for if your columns are titled. By clicking this check box, you won't include the top two cells in the dataset.
+  - This option will be found in the top right corner of the window.
+  - This is important for if your columns are titled. By clicking this check box, you won't include the top two cells in the dataset.
 4. Choose which column to sort by.
-- This will be found in the leftmost dropdown menu.
+  - This will be found in the leftmost dropdown menu.
 5. Choose how you want to sort.
-- You can choose A-Z, Z-A, or Custom List
+  - You can choose A-Z, Z-A, or Custom List
 6. Once you choose how to sort, hit ok and the data will sort!
 
 ### How to make a custom list
 1. click the custom list option from the order menu. 
 2. This will open a new window where you can make a list to sort on
-3. In the right box (titled List Entries), you can enter the items that the list is sorted by 
+3. In the right box (titled List Entries), you can enter the items that the list should be sorted by.
+  a. To do this, you enter one term then press enter to enter the next term.
 
