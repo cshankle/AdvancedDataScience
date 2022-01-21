@@ -43,11 +43,7 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
 ## How to Sort:
 1. Add Your Data.
   -In this case, we will look at a small dataset of what different countries call shaved ice.
-  <p align="left">
-  
-    img width="400" height="450" src="Step 1.png"
-    
-  </p>
+ ![This is an image](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%201.PNG)
 2. Click Sort.
   - Sort is found in the data tool bar.
 3. Choose whether your data has headers.
