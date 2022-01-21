@@ -31,13 +31,14 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
 - This will open a new window where you can make a list to sort on
 2. In the right box (titled List Entries), you can enter the items that the list should be sorted by. <br>
   a. To do this, you enter one term then press enter to enter the next term. <br>
- ![A-Z by sno cone](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.1.PNG)
+ <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.1.PNG" width = "450" height = "325" >
+
 3. This will cause the data to sort by counties, with more important counties at the top of the list. <br>
-![A-Z by sno cone](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.2.PNG)
+<img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.2.PNG" width = "450" height = "325" >
 4. You can also sort by color by going to the sort on section and clicking cell color. Then choose which color to sort by, in this case purple. <br>
-![A-Z by sno cone](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.3.PNG)
+<img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.3.PNG" width = "450" height = "325" >
 5. Now all of the data that is highlighted purple is moved to the top of the list. <br>
-![A-Z by sno cone](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.4.PNG)
+<img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%203.4.PNG" width = "450" height = "325" >
 
 **here is the [data](https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/homework%201.xlsx) that I used in my example**
 
