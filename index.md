@@ -57,6 +57,6 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
 ### How to make a custom list
 1. click the custom list option from the order menu. 
 2. This will open a new window where you can make a list to sort on
-3. In the right box (titled List Entries), you can enter the items that the list should be sorted by.
+3. In the right box (titled List Entries), you can enter the items that the list should be sorted by. <br>
   a. To do this, you enter one term then press enter to enter the next term.
 
