@@ -8,7 +8,7 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
   -In this case, we will look at a small dataset of what different countries call shaved ice. <br>
     <p align="left">
   
-    <img width="400" height="450" src="filename.png">
+    <img width="400" height="450" src="Step%201.png">
     
   </p>
  <img src ="Step%201.PNG" width = "450" height = "325" >
