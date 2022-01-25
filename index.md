@@ -9,7 +9,7 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
  <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%201.PNG" width = "450" height = "325" >
 2. Click Sort.
   - Sort is found in the data tool bar. <br>
-   <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%201.5.PNG" width = "450" height = "325" >
+   <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step 1.5.PNG" width = "450" height = "325" >
 3. Choose whether your data has headers.
   - This option will be found in the top right corner of the window.
   - This is important for if your columns are titled. By clicking this check box, you won't include the top two cells in the dataset. <br>
@@ -18,10 +18,10 @@ Sort is a tool that allows the user to rearrange their data in excel. The user c
   - This will be found in the leftmost dropdown menu.
 5. Choose how you want to sort. <br>
   - You can choose A-Z, Z-A, or Custom List
- <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.PNG" width = "450" height = "325" >
+ <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.PNG" width = "450" height = "325" 
 6. Once you choose how to sort, hit ok and the data will sort! <br> <br>
   A-Z by country<br>
- <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.2.PNG" width = "200" height = "325" > <br> 
+ <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.2.PNG" width = "200" height = "325" >
   Z-A by country <br> <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.3.PNG" width = "200" height = "325" > <br> 
  A-Z by Sno Cone <br> <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%202.4.PNG" width = "200" height = "325" >
 
