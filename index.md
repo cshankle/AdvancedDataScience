@@ -6,7 +6,7 @@ Sort is a tool that allows the user to rearrange fun their data in excel. The us
 ## How to Sort:
 1. Add Your Data.
   -In this case, we will look at a small dataset of what different countries call shaved ice. <br>
- <img src ="https://cshankle.github.io/AdvancedDataScience/blob/gh-pages/hw1/Step%201.PNG" width = "450" height = "325" >
+ <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step%201.PNG" width = "450" height = "325" >
 2. Click Sort.
   - Sort is found in the data tool bar. <br>
    <img src ="https://github.com/cshankle/AdvancedDataScience/blob/gh-pages/hw1/Step 1.5.PNG" width = "450" height = "325" >
